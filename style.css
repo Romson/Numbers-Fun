@@ -1,0 +1,62 @@
+#labCalculatorSection {
+    margin: 45px 0;
+}
+
+header {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    background-color: aquamarine;   
+    padding: 1px 10px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.labCalculatorDiv {
+    width: 70%;
+    margin: auto;
+    padding: 10px;
+    background-color: #364866;
+} 
+
+.row {
+    width: 50%;
+    margin: auto;
+    background-color: azure;
+    margin-top: 20px;
+    display: flex;
+    border-radius: 5px;
+    justify-content: center;
+}
+
+.row2 {
+    width: 80%;
+    margin: auto;
+    margin-bottom: 30px;
+    background-color: azure;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.row2 p {
+    padding: 15px 15px 15px 30px;
+}
+
+.row2 p:first-child {
+    padding-top: 40px;
+}
+
+.row2 p:last-child {
+    padding-bottom: 40px;
+}
+
+.column {
+    padding: 0 25px;
+}
+
+.numCSS {
+    background-color: #364866;
+    color: azure;
+    padding: 5px;
+    border: 2px solid aquamarine;
+}
