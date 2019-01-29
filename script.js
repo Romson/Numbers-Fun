@@ -1,4 +1,4 @@
-//prompt for username and store it in variable userName
+//prompt for username and store it in var userName
 var userName = prompt("Enter your name:");
 //variable to hold header1 "id"
 var greetingParagraph = document.getElementById("greeting");
